@@ -1,1 +1,1 @@
-# Alson
+A personal website, to be iterated on as I progress through life.
